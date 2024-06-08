@@ -1,0 +1,3 @@
+# Data Science Internship at Bhart Intern
+During my internship at Bhart Intern, I worked on two key projects: number recognition and the Titanic dataset. 
+The number recognition project involved developing and training machine learning models to accurately recognize handwritten digits. For the Titanic dataset project, I performed data analysis and built predictive models to determine passenger survival outcomes based on various features. This internship provided me with practical experience in data preprocessing, model development, and evaluation, enhancing my skills in data science and machine learning.
