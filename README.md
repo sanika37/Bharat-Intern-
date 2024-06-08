@@ -4,15 +4,15 @@ During my internship at Bhart Intern, I had the opportunity to work on two signi
 # Project Overview
 1. Number Recognition
 
-Objective: Develop and train machine learning models to accurately recognize handwritten digits.
-Approach: Utilized datasets like MNIST, applied preprocessing techniques, and trained models using various algorithms including Convolutional Neural Networks (CNNs).
-Outcome: Achieved high accuracy in digit recognition, demonstrating the efficacy of the models.
+a. Objective: Develop and train machine learning models to accurately recognize handwritten digits.
+b. Approach: Utilized datasets like MNIST, applied preprocessing techniques, and trained models using various algorithms including Convolutional Neural Networks (CNNs).
+c. Outcome: Achieved high accuracy in digit recognition, demonstrating the efficacy of the models.
 
 2. Titanic Dataset
 
-Objective: Analyze the Titanic dataset to predict passenger survival outcomes based on various features.
-Approach: Performed data cleaning, exploratory data analysis (EDA), feature engineering, and built predictive models using algorithms such as Logistic Regression, Decision Trees, and Random Forests.
-Outcome: Developed models with robust predictive power, providing insights into the factors affecting survival rates.
+a. Objective: Analyze the Titanic dataset to predict passenger survival outcomes based on various features.
+b. Approach: Performed data cleaning, exploratory data analysis (EDA), feature engineering, and built predictive models using algorithms such as Logistic Regression, Decision Trees, and Random Forests.
+c. Outcome: Developed models with robust predictive power, providing insights into the factors affecting survival rates.
 
 # Tools and Technologies
 1. Programming Language: Python
